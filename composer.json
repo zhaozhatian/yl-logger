@@ -1,6 +1,7 @@
 {
     "name": "yl-logger/async-logger",
     "description": "Laravel async logger with RabbitMQ and MongoDB",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "YlLogger\\AsyncLogger\\": "src/"
